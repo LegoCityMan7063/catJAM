@@ -97,7 +97,6 @@ app.get('/sign-s3', (req, res) => {
     accessKeyId: "AKIARZGMUHDKGK2LJQZI",
     secretAccessKey: "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"
   });
-  console.log(req.cookies['jwt']);
   const fileName = req.query['file-name'];
   const fileType = req.query['file-type'];
   const s3Params = {
