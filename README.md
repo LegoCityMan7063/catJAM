@@ -2,7 +2,7 @@
 
 How to Use
 ------------
-Website: https://www.project-catjam.me/  
+Website: https://c09.herokuapp.com/   
 Demo: https://www.youtube.com/watch?v=U-uUsMbrEfk  
 Alternate demo link: https://streamable.com/ha1w76  
 Documentation: https://github.com/UTSCC09/project-catjam/blob/master/docs/README.md  
